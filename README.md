@@ -1,6 +1,7 @@
 # Análisis NovaRetail+ - Sprint 8
 
 Este repositorio contiene el análisis realizado durante el Sprint 8 del caso NovaRetail+.
+
 NovaRetail+ es una plataforma de comercio electrónico líder en Latinoamérica. El objetivo estratégico de este análisis correlacional es identificar y cuantificar los factores del comportamiento del cliente que están más fuertemente asociados con el **ingreso anual generado**, proveyendo al equipo de Crecimiento y Retención accionables basados en datos para el cierre del año operativo 2024.
 
 ## 🧠 Pregunta del Negocio
