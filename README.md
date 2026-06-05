@@ -33,4 +33,4 @@ NovaRetail+ es una plataforma de comercio electrónico líder en Latinoamérica.
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/alejandrop878-cmd/S8-NovaRetail-.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alejandrop878-cmd/S8-NovaRetail-.ipynb)
